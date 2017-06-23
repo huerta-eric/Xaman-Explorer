@@ -1,4 +1,4 @@
-# SecondProject2
+# Xaman-Explorer
 
 Xaman Ek - Mayan God of the North Star. The patron god of merchants and travelers.  
     http://www.samaelgnosis.net/revista/ser43/xaman_ek.html
